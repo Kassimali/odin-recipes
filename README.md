@@ -1,1 +1,1 @@
-This project is under development 
+This is Kassim's first git project
